@@ -1,4 +1,4 @@
 # DoublyLinkedList
 
 Description:
-A node based doubllyLinkedList implementation.
+A node based doublyLinkedList implementation.
